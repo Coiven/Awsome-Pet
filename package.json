@@ -1,0 +1,12 @@
+{
+  "name": "Awsome-Pet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hc1998/Awsome-Pet.git",
+  "author": "zary <hanchao@geetest.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
